@@ -1,1 +1,1 @@
-# Git Assignment - <Your GitHub Username>
+# Git Assignment - ClaireEun
